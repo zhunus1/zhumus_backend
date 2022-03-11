@@ -103,10 +103,10 @@ ENV/
 .DS_Store
 *.sqlite3
 media/
+static/
 *.pyc
 *.db
 *.pid
-/static
 # Ignore Django Migrations in Development if you are working on team
 
 # Only for Development only
